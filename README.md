@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07b62f57-9963-46a1-99a4-64d196f97aa8)# Turn-Based-Battle-Simulator-using-Java
+# Turn-Based-Battle-Simulator-using-Java
 
 # Battle of Legends: Thor vs Loki  
 
@@ -63,6 +63,7 @@ The game ends when one character’s health reaches 0.
 
 ##🖼️ Gameplay Images
 [image](https://github.com/user-attachments/assets/add131ba-6725-4351-9b1f-e3096be353ba)
+![image](https://github.com/user-attachments/assets/07b62f57-9963-46a1-99a4-64d196f97aa8)
 
 ##🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or want to fix bugs:

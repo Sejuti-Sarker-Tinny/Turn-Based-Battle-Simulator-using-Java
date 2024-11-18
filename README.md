@@ -69,7 +69,7 @@ The game ends when one character’s health reaches 0.
 ---
 ##🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or want to fix bugs:
-
+---
 **Fork the repository.**
 Create a new branch for your feature:
 ```bash

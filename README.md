@@ -52,7 +52,7 @@ This game pits two iconic characters, Thor and Loki, against each other in a tur
     java Game
 ```
 ---
-##🎮 How to Play
+## 🎮 How to Play
 At the start of the game, you will control Thor or Loki.
 Choose from the following actions on your turn:
 **Attack:** Deal damage based on your character’s strength and opponent’s defense.
@@ -60,16 +60,16 @@ Choose from the following actions on your turn:
 **Heal:** Restore a portion of your health (uses mana).
 **Special Ability:** Use your character's unique abilities to turn the tide of battle.
 The game ends when one character’s health reaches 0.
----
+
 
 ## 🖼️ Gameplay Images
 
 ![image](https://github.com/user-attachments/assets/5e9fc360-23f8-436c-aa3d-517a9227ed2b)
 ![image](https://github.com/user-attachments/assets/07b62f57-9963-46a1-99a4-64d196f97aa8)
----
-##🤝 Contributing
+
+## 🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or want to fix bugs:
----
+
 **Fork the repository.**
 Create a new branch for your feature:
 ```bash
@@ -84,16 +84,16 @@ git commit -m "Add feature-name"
 git push origin feature-name
 ```
 **Open a pull request**
----
-##📜 License
+
+## 📜 License
 This project is licensed under the MIT License. See LICENSE for details.
----
-##🛠️ Future Features
+
+## 🛠️ Future Features
 Add multiplayer support.
 Include AI-based opponents.
 Implement graphical user interface (GUI).
 Create advanced combat mechanics.
----
-##🔗 Author
+
+## 🔗 Author
 Developed by Sejuti Sarker Tinny
----
+

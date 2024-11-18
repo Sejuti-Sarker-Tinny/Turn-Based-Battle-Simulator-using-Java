@@ -59,9 +59,38 @@ Choose from the following actions on your turn:
 **Heal:** Restore a portion of your health (uses mana).
 **Special Ability:** Use your character's unique abilities to turn the tide of battle.
 The game ends when one character’s health reaches 0.
-![Gameplay Screenshot]![image](https://github.com/user-attachments/assets/d54fef4a-82e4-48a8-b9d0-f3fa9c9168ab))
+[image](https://github.com/user-attachments/assets/d54fef4a-82e4-48a8-b9d0-f3fa9c9168ab)
 
 ##🖼️ Gameplay Images
-![Gameplay Screenshot](![image](https://github.com/user-attachments/assets/add131ba-6725-4351-9b1f-e3096be353ba))
+[image](https://github.com/user-attachments/assets/add131ba-6725-4351-9b1f-e3096be353ba)
 
+##🤝 Contributing
+Contributions are welcome! If you have ideas for improvements or want to fix bugs:
+
+**Fork the repository.**
+Create a new branch for your feature:
+```bash
+git checkout -b feature-name
+```
+**Commit your changes:**
+```bash
+git commit -m "Add feature-name"
+```
+**Push the branch:**
+```bash
+git push origin feature-name
+```
+**Open a pull request**
+
+##📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+##🛠️ Future Features
+Add multiplayer support.
+Include AI-based opponents.
+Implement graphical user interface (GUI).
+Create advanced combat mechanics.
+
+##🔗 Author
+Developed by Sejuti Sarker Tinny
 

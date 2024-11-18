@@ -47,7 +47,7 @@ This game pits two iconic characters, Thor and Loki, against each other in a tur
     javac *.java
 ```
   
-4.** Run the Game:**
+4. **Run the Game:**
   ```bash
     java Game
 ```

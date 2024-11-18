@@ -62,7 +62,7 @@ Choose from the following actions on your turn:
 The game ends when one character’s health reaches 0.
 ---
 
-##🖼️ Gameplay Images
+## 🖼️ Gameplay Images
 
 ![image](https://github.com/user-attachments/assets/5e9fc360-23f8-436c-aa3d-517a9227ed2b)
 ![image](https://github.com/user-attachments/assets/07b62f57-9963-46a1-99a4-64d196f97aa8)
